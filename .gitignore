@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Spyder
+.spyproject/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dados (não versionar)
+*.csv
+*.parquet
+*.xlsx
+*.zip
+
+# Ambiente virtual
+venv/
+env/
+.venv/
+
+# Logs
+*.log
